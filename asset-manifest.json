@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Research-Blog/static/css/main.faa94ebc.css",
+    "main.js": "/Research-Blog/static/js/main.40900edf.js",
+    "static/js/453.e80c3737.chunk.js": "/Research-Blog/static/js/453.e80c3737.chunk.js",
+    "static/media/portevi2.jpg": "/Research-Blog/static/media/portevi2.869b4eccba2b46b66a40.jpg",
+    "static/media/airportevi4.jpg": "/Research-Blog/static/media/airportevi4.21b13b6e70691b7829a7.jpg",
+    "static/media/airportevi3.jpg": "/Research-Blog/static/media/airportevi3.261497334c2e578fecff.jpg",
+    "static/media/airportevi1.jpg": "/Research-Blog/static/media/airportevi1.d4066a928f6ba5688f8a.jpg",
+    "static/media/airportevi2.jpg": "/Research-Blog/static/media/airportevi2.7b1a8f0611eea1971ccc.jpg",
+    "static/media/portevi3.jpg": "/Research-Blog/static/media/portevi3.1a396e0a9c7cade36da3.jpg",
+    "static/media/railwayevi1.jpg": "/Research-Blog/static/media/railwayevi1.9e2eb7247f7da0f233af.jpg",
+    "static/media/portsol2.png": "/Research-Blog/static/media/portsol2.8d359efd863a7e266d90.png",
+    "static/media/portevi1.jpg": "/Research-Blog/static/media/portevi1.79fa5e517091e420979a.jpg",
+    "static/media/railwayevi3.jpg": "/Research-Blog/static/media/railwayevi3.0285d63bff2b553a2605.jpg",
+    "static/media/railwayevi2.jpg": "/Research-Blog/static/media/railwayevi2.d0ca9cf94491fa543859.jpg",
+    "static/media/portsol1.png": "/Research-Blog/static/media/portsol1.0b89b57be5fe6cdc75ef.png",
+    "index.html": "/Research-Blog/index.html",
+    "main.faa94ebc.css.map": "/Research-Blog/static/css/main.faa94ebc.css.map",
+    "main.40900edf.js.map": "/Research-Blog/static/js/main.40900edf.js.map",
+    "453.e80c3737.chunk.js.map": "/Research-Blog/static/js/453.e80c3737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa94ebc.css",
+    "static/js/main.40900edf.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Research-Blog/static/css/main.faa94ebc.css",
-    "main.js": "/Research-Blog/static/js/main.40900edf.js",
+    "main.js": "/Research-Blog/static/js/main.49133153.js",
     "static/js/453.e80c3737.chunk.js": "/Research-Blog/static/js/453.e80c3737.chunk.js",
     "static/media/portevi2.jpg": "/Research-Blog/static/media/portevi2.869b4eccba2b46b66a40.jpg",
     "static/media/airportevi4.jpg": "/Research-Blog/static/media/airportevi4.21b13b6e70691b7829a7.jpg",
@@ -17,11 +17,11 @@
     "static/media/portsol1.png": "/Research-Blog/static/media/portsol1.0b89b57be5fe6cdc75ef.png",
     "index.html": "/Research-Blog/index.html",
     "main.faa94ebc.css.map": "/Research-Blog/static/css/main.faa94ebc.css.map",
-    "main.40900edf.js.map": "/Research-Blog/static/js/main.40900edf.js.map",
+    "main.49133153.js.map": "/Research-Blog/static/js/main.49133153.js.map",
     "453.e80c3737.chunk.js.map": "/Research-Blog/static/js/453.e80c3737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.faa94ebc.css",
-    "static/js/main.40900edf.js"
+    "static/js/main.49133153.js"
   ]
 }
